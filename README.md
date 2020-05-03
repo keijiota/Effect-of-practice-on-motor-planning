@@ -20,7 +20,7 @@ Colmuns are as follows. <br>
 - Fifth column: score (points) <br>
 - Sixth column: total score (points) <br>
 
-Some data are filled with NaN (Not a number) because the data are completely missing or excluded from the analysis due to outliear trials (> +-2.5 SD from the mean response time). 
+Some data are filled with NaN (Not a number) because the data are completely missing or excluded from the analysis due to outliear trials (> +2.5SD or < -2.5SD from the mean response time). 
 
 Please let me know if you have any questions. <br>
 Please cite the article in the case you reuse the data. 
