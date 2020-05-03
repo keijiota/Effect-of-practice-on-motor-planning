@@ -1,6 +1,6 @@
 # Effect-of-practice-on-motor-planning
 This repository shares the experimental data in Ota et al. (2016, <em>Scientific Reports</em>). 
-- Ota, K., Shinya, M., & Kudo, K. (2016). Sub-optimality in motor planning is retained throughout 9 days practice of 2250 trials. Scientific reports, 6, 37181.
+Ota, K., Shinya, M., & Kudo, K. (2016). Sub-optimality in motor planning is retained throughout 9 days practice of 2250 trials. Scientific reports, 6, 37181.
 
 We conducted a 9 days learning experiment where subjects performed a motor decision task. In each day, they performed the task for 5 blocks. One block consists of 50 trials of response selection. See Ota et al. 2016 for the details. 
 
