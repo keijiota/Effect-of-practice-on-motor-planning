@@ -13,14 +13,14 @@ Rows represent the number of trials from the 1st to 50th trial in each block. <b
 The third dimension is the number of blocks from the 1st to 45th block. <br>
 
 Colmuns are as follows. <br> 
-  First column: foreperiod (sec) <br>
-  Second column: reference time (sec) <br>
-  Third column: response time (sec) <br>
-  Forth column: reference time minus response time  <br>
-  Fifth column: score (points) <br>
-  Sixth column: total score (points) <br>
+- First column: foreperiod (sec) <br>
+- Second column: reference time (sec) <br>
+- Third column: response time (sec) <br>
+- Forth column: reference time minus response time  <br>
+- Fifth column: score (points) <br>
+- Sixth column: total score (points) <br>
 
 Some data are filled with NaN (Not a number) because the data are completely missing or excluded from the analysis due to outliear trials (> +-2.5 SD from the mean response time). 
 
-Please let me know if you have any questions. 
+Please let me know if you have any questions. <br>
 Please cite the article in the case you reuse the data. 
