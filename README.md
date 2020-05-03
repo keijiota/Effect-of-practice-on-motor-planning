@@ -5,7 +5,7 @@ This repository shares the experimental data in Ota et al. (2016, <em>Scientific
 We conducted a 9 days learning experiment where subjects performed a motor decision task. In each day, they performed the task for 5 blocks. One block consists of 50 trials of response selection. See Ota et al. 2016 for the details. 
 
 # Data structure
-There is 1-by-15 cell in the mat file "learningexp.mat".
+There is a 1-by-15 cell in the mat file "learningexp.mat".
 Each cell corresponds to the data for each participant (15 participants were collected). 
 
 In each cell, it includes a 50-by-6-by-45 matrix. 
